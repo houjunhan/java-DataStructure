@@ -113,7 +113,6 @@ hashcode相同，通过equals比较内容是否相同。
 **7.总结：**
 
 上述我们大概阐述了HashMap底层存储数据的方式。为了方便大家更好的理解，我们结合一个存储流程图来进一步说明一下：(jdk8存储过程)
-![](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9mZXJtaGFuLm9zcy1jbi1xaW5nZGFvLmFsaXl1bmNzLmNvbS9pbWcvMjAyMDA0MTAwMjEwNDUucG5n?x-oss-process=image/format,png)
 
 ![add image](https://fermhan.oss-cn-qingdao.aliyuncs.com/img/20200410021045.png)
 
